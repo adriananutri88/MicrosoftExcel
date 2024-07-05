@@ -6,3 +6,13 @@ Este conjunto de datos contiene información detallada sobre las actividades dia
 
 ## Objetivo
 Visualizar los cambios con respecto al rendimiento de los trabajadores del almacén desde que cambió la administración el día 29 de junio de 2024.
+
+## Resultados de análisis
+1. Aumento en las solicitudes de trabajo.
+   - Las actividades de mantenimiento y limpieza aumentaron
+  
+2. Bajo rendimiento en la efectividad.
+   - Aunque incrementaron las actividades, los resultados no son tan efeicientes comprobandolo con los cuestionarios de satisfacción.
+img  (arrastrada desde la compu.
+
+```SELECT * FROM table```
